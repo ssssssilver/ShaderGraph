@@ -16,7 +16,7 @@ d. 利用Step函数对_Time变量进行01判断，当_Time的值低于指定值�
 使用blender创建网格 分割网格的所有四边型后展开UV 并使所有网格的uv都缩放成一个点(scale=0）最后向上挤出网格  
 ![blender图](https://github.com/ssssssilver/ShaderGraph/blob/master/ShaderGraphs/preview/wave2.jpg)    
 将模型导出fbx并导入到unity中 直接赋与1的着色器 由于网格每一个四边型的uv都挤成了一个点 所以波浪变成每个四边形上下改变位置  
-!(波浪2)(https://github.com/ssssssilver/ShaderGraph/blob/master/ShaderGraphs/preview/wave2.gif)  
+![波浪2](https://github.com/ssssssilver/ShaderGraph/blob/master/ShaderGraphs/preview/wave2.gif)  
   
 4.lowpoly网格的波浪着色器3  
 通过uv与中心点的距离来绘制中心点 并与原本波浪着色器改变的顶点相加 可以制作上凸或者下陷效果  
