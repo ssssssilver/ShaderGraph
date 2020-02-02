@@ -15,6 +15,14 @@ MonoBehaviour:
   m_Keys:
   - __PanelContainer__rootVisualContainer__6a4e90e4dc3b9e048ad56a4d95792d4c__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
   - __PanelContainer__rootVisualContainer__6a4e90e4dc3b9e048ad56a4d95792d4c__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__016cfd6318d4c014a973656b0d4b6ac4__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__016cfd6318d4c014a973656b0d4b6ac4__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__2d609135e21c1614a88853a4a0a105e7__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__2d609135e21c1614a88853a4a0a105e7__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
   m_Values:
-  - '{"position":{"x":-1789.7156982421875,"y":627.5037231445313,"z":0.0},"scale":{"x":0.7561436891555786,"y":0.7561436891555786,"z":1.0}}'
-  - '{"m_Version":747,"m_SelectedElementsArray":["92b5a460-c038-4aab-a235-36c2f05f75de"]}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":294.85986328125,"y":172.0895233154297,"z":0.0},"scale":{"x":0.39828553795814516,"y":0.39828553795814516,"z":1.0}}'
+  - '{"m_Version":109,"m_SelectedElementsArray":["ce835732-f527-4a88-bd3a-9f6e2546c374"]}'
