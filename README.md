@@ -1,5 +1,5 @@
 # ShaderGraph
-个人shadergraph练习
+个人shadergraph案例
   
 1.计时着色器  
 a.利用time函数对uv的offset进行缩放 产生的值作为shadergraph自带的噪波图uv，最终的结果作为计时的波浪效果    
