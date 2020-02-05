@@ -1,5 +1,7 @@
 # ShaderGraph
-个人shadergraph案例
+个人shadergraph案例  
+  
+如果项目场景无法正常显示 需要自行在windows->package manager中添加Lightweight RP与shader graph包
   
 1.计时着色器  
 a.利用time函数对uv的offset进行缩放 产生的值作为shadergraph自带的噪波图uv，最终的结果作为计时的波浪效果    
