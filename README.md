@@ -1,8 +1,9 @@
 # ShaderGraph
 个人shadergraph案例  
   
-开发环境 unity 2019.3
-v_1.1  
+ v_1.1   
+开发环境 unity 2019.3  
+
 因为想让工程发布到webGL 但查阅了很多资料后发现2018的版本并不兼容webGL 会出现黑屏的情况 所以将工程升级到了2019.3    
 如果工程无法正常打开 可以尝试下删除assets文件夹同层级的除assets和projectsetting文件夹之外的所有文件，并将工程的packages下的依赖包都更新一次就好  
 个别场景新增了post process 因为2019版本的unity新增了urp，默认是兼容lwrp 但需要手动设置才能兼容使用post process 
@@ -43,9 +44,9 @@ v_1.1
 ![消融](https://github.com/ssssssilver/ShaderGraph/blob/master/ShaderGraphs/preview/dissolve.gif)  
 
 ======================================================================================================  
-  
-开发环境 unity 2018.4  
 v_1.0  
+开发环境 unity 2018.4  
+
 如果项目场景无法正常显示 需要自行在windows->package manager中添加Lightweight RP与shader graph包
   
 计时着色器  
