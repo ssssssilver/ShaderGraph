@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Wave3.unity
+    guid: f09ae99ed367d754c8276dd0e332ae63
+  - enabled: 1
+    path: Assets/Scenes/Wave2.unity
+    guid: f9fd1ef28a983304e807ad16a94dcc7d
+  - enabled: 1
+    path: Assets/Scenes/Wave1.unity
+    guid: 7b3a0651557afc745906798cbf7f5ab3
+  - enabled: 1
+    path: Assets/Scenes/Waterfall.unity
+    guid: 55fb5314c68fd2641b963b101af673f9
+  - enabled: 1
+    path: Assets/Scenes/Tornado.unity
+    guid: ef105962a691d6d42bf43cde74e1262a
   m_configObjects: {}
