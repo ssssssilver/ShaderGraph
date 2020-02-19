@@ -1,4 +1,8 @@
-# ShaderGraph
+展示地址  
+WebGL不兼容HDR 有些效果有偏差  
+http://117.48.208.243/done/Shadergraphs/index.html
+
+# ShaderGraph  
 个人shadergraph案例  
   
  v_1.1   
